@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\maoro\Documents\JTC Work\RAFA API</_PublishTargetUrl>
+    <History>True|2022-03-03T07:22:21.2560366Z;</History>
+  </PropertyGroup>
+</Project>

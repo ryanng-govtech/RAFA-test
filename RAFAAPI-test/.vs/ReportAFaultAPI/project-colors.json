@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b34f72c-c10e-4554-8988-d1b26046ba89": {
+      "ProjectGuid": "7b34f72c-c10e-4554-8988-d1b26046ba89",
+      "DisplayName": "ReportAFaultAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

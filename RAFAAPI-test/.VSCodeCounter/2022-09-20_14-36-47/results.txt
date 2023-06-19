@@ -1,0 +1,124 @@
+Date : 2022-09-20 14:36:47
+Directory : c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI
+Total : 71 files,  83594 codes, 349 comments, 297 blanks, all 84240 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |         36 |     82,025 |          6 |          8 |     82,039 |
+| C#         |         26 |      1,421 |        337 |        281 |      2,039 |
+| XML        |          6 |        112 |          6 |          5 |        123 |
+| Properties |          3 |         36 |          0 |          3 |         39 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                         | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                            |         71 |     83,594 |        349 |        297 |     84,240 |
+| .vs                                                                                                                                          |          1 |         11 |          0 |          0 |         11 |
+| .vs\ReportAFaultAPI                                                                                                                          |          1 |         11 |          0 |          0 |         11 |
+| ReportAFaultAPI                                                                                                                              |         66 |     76,750 |        348 |        295 |     77,393 |
+| ReportAFaultAPI\.config                                                                                                                      |          1 |         12 |          0 |          0 |         12 |
+| ReportAFaultAPI\Controllers                                                                                                                  |          6 |        636 |        271 |         74 |        981 |
+| ReportAFaultAPI\Migrations                                                                                                                   |          3 |        488 |          2 |        125 |        615 |
+| ReportAFaultAPI\Models                                                                                                                       |          5 |        108 |          0 |         28 |        136 |
+| ReportAFaultAPI\Properties                                                                                                                   |          7 |        270 |          6 |          0 |        276 |
+| ReportAFaultAPI\Properties\PublishProfiles                                                                                                   |          2 |         26 |          6 |          0 |         32 |
+| ReportAFaultAPI\Properties\ServiceDependencies                                                                                               |          2 |        194 |          0 |          0 |        194 |
+| ReportAFaultAPI\Properties\ServiceDependencies\jtcfemapp - Web Deploy                                                                        |          2 |        194 |          0 |          0 |        194 |
+| ReportAFaultAPI\bin                                                                                                                          |         13 |     18,210 |          3 |          3 |     18,216 |
+| ReportAFaultAPI\bin\Debug                                                                                                                    |          4 |      4,092 |          1 |          1 |      4,094 |
+| ReportAFaultAPI\bin\Debug\net6.0                                                                                                             |          4 |      4,092 |          1 |          1 |      4,094 |
+| ReportAFaultAPI\bin\Release                                                                                                                  |          9 |     14,118 |          2 |          2 |     14,122 |
+| ReportAFaultAPI\bin\Release\net5.0                                                                                                           |          9 |     14,118 |          2 |          2 |     14,122 |
+| ReportAFaultAPI\bin\Release\net5.0\publish                                                                                                   |          4 |      7,051 |          1 |          1 |      7,053 |
+| ReportAFaultAPI\obj                                                                                                                          |         25 |     56,795 |         58 |         39 |     56,892 |
+| ReportAFaultAPI\obj\Debug                                                                                                                    |         11 |     31,990 |         38 |         24 |     32,052 |
+| ReportAFaultAPI\obj\Debug\net5.0                                                                                                             |          5 |     15,647 |         19 |         12 |     15,678 |
+| ReportAFaultAPI\obj\Debug\net6.0                                                                                                             |          6 |     16,343 |         19 |         12 |     16,374 |
+| ReportAFaultAPI\obj\Release                                                                                                                  |          9 |     13,838 |         20 |         14 |     13,872 |
+| ReportAFaultAPI\obj\Release\net5.0                                                                                                           |          9 |     13,838 |         20 |         14 |     13,872 |
+| ReportAFaultAPI\obj\Release\net5.0\PubTmp                                                                                                    |          4 |      6,834 |          1 |          2 |      6,837 |
+| ReportAFaultAPI\obj\Release\net5.0\PubTmp\Out                                                                                                |          4 |      6,834 |          1 |          2 |      6,837 |
+| publish                                                                                                                                      |          4 |      6,833 |          1 |          2 |      6,836 |
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                                     | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\.vs\ReportAFaultAPI\project-colors.json                                                      | JSON       |         11 |          0 |          0 |         11 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\.config\dotnet-tools.json                                                    | JSON       |         12 |          0 |          0 |         12 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Controllers\Constants.cs                                                     | C#         |          9 |          0 |          1 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Controllers\RAFABuildingController.cs                                        | C#         |        165 |         10 |         13 |        188 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Controllers\RAFAFaultReportsController.cs                                    | C#         |         92 |        124 |          9 |        225 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Controllers\RAFAOTPsController.cs                                            | C#         |        318 |         95 |         37 |        450 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Controllers\RAFARecaptchaController.cs                                       | C#         |         52 |          0 |          7 |         59 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Controllers\RAFAReportStatusController.cs                                    | C#         |          0 |         42 |          7 |         49 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Migrations\20220831065640_InitialCreate.Designer.cs                          | C#         |        180 |          1 |         56 |        237 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Migrations\20220831065640_InitialCreate.cs                                   | C#         |        130 |          0 |         13 |        143 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Migrations\RafaDbContextModelSnapshot.cs                                     | C#         |        178 |          1 |         56 |        235 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Models\RAFAFaultImage.cs                                                     | C#         |         10 |          0 |          0 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Models\RAFAFaultReport.cs                                                    | C#         |         53 |          0 |         15 |         68 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Models\RAFAOTP.cs                                                            | C#         |         19 |          0 |          3 |         22 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Models\RAFASmsLog.cs                                                         | C#         |         14 |          0 |          3 |         17 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Models\RafaDbContext.cs                                                      | C#         |         12 |          0 |          7 |         19 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Program.cs                                                                   | C#         |         24 |          0 |          3 |         27 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Properties\PublishProfiles\FolderProfile.pubxml                              | XML        |         13 |          3 |          0 |         16 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Properties\PublishProfiles\FolderProfile1.pubxml                             | XML        |         13 |          3 |          0 |         16 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Properties\ServiceDependencies\jtcfemapp - Web Deploy\mssql1.arm.json        | JSON       |         81 |          0 |          0 |         81 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Properties\ServiceDependencies\jtcfemapp - Web Deploy\profile.arm.json       | JSON       |        113 |          0 |          0 |        113 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Properties\launchSettings.json                                               | JSON       |         32 |          0 |          0 |         32 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Properties\serviceDependencies.json                                          | JSON       |          8 |          0 |          0 |          8 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Properties\serviceDependencies.jtcfemapp - Web Deploy.json                   | JSON       |         10 |          0 |          0 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\ReportAFaultAPI.csproj                                                       | XML        |         25 |          0 |          4 |         29 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\Startup.cs                                                                   | C#         |        109 |          7 |         13 |        129 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\WeatherForecast.cs                                                           | C#         |         11 |          0 |          5 |         16 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\appsettings.Development.json                                                 | JSON       |          9 |          0 |          1 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\appsettings.json                                                             | JSON       |         53 |          1 |          0 |         54 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Debug\net6.0\ReportAFaultAPI.deps.json                                   | JSON       |      4,010 |          0 |          0 |      4,010 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Debug\net6.0\ReportAFaultAPI.runtimeconfig.json                          | JSON       |         20 |          0 |          0 |         20 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Debug\net6.0\appsettings.Development.json                                | JSON       |          9 |          0 |          1 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Debug\net6.0\appsettings.json                                            | JSON       |         53 |          1 |          0 |         54 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\ReportAFaultAPI.deps.json                                 | JSON       |      6,985 |          0 |          0 |      6,985 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\ReportAFaultAPI.runtimeconfig.dev.json                    | JSON       |         10 |          0 |          0 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\ReportAFaultAPI.runtimeconfig.json                        | JSON       |         14 |          0 |          0 |         14 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\appsettings.Development.json                              | JSON       |          9 |          0 |          1 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\appsettings.json                                          | JSON       |         49 |          1 |          0 |         50 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\publish\ReportAFaultAPI.deps.json                         | JSON       |      6,979 |          0 |          0 |      6,979 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\publish\ReportAFaultAPI.runtimeconfig.json                | JSON       |         14 |          0 |          0 |         14 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\publish\appsettings.Development.json                      | JSON       |          9 |          0 |          1 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\bin\Release\net5.0\publish\appsettings.json                                  | JSON       |         49 |          1 |          0 |         50 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs              | C#         |          3 |          1 |          1 |          5 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net5.0\ReportAFaultAPI.AssemblyInfo.cs                             | C#         |          9 |          9 |          5 |         23 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net5.0\ReportAFaultAPI.GeneratedMSBuildEditorConfig.editorconfig   | Properties |         10 |          0 |          1 |         11 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net5.0\ReportAFaultAPI.MvcApplicationPartsAssemblyInfo.cs          | C#         |          3 |          9 |          5 |         17 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net5.0\project.razor.json                                          | JSON       |     15,622 |          0 |          0 |     15,622 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs              | C#         |          3 |          1 |          1 |          5 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net6.0\ReportAFaultAPI.AssemblyInfo.cs                             | C#         |          9 |          9 |          5 |         23 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net6.0\ReportAFaultAPI.GeneratedMSBuildEditorConfig.editorconfig   | Properties |         16 |          0 |          1 |         17 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net6.0\ReportAFaultAPI.MvcApplicationPartsAssemblyInfo.cs          | C#         |          3 |          9 |          5 |         17 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net6.0\project.razor.json                                          | JSON       |     16,301 |          0 |          0 |     16,301 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Debug\net6.0\staticwebassets.build.json                                  | JSON       |         11 |          0 |          0 |         11 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs            | C#         |          3 |          1 |          1 |          5 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\PubTmp\Out\ReportAFaultAPI.deps.json                      | JSON       |      6,797 |          0 |          0 |      6,797 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\PubTmp\Out\ReportAFaultAPI.runtimeconfig.json             | JSON       |         14 |          0 |          0 |         14 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json                   | JSON       |          9 |          0 |          1 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json                               | JSON       |         14 |          1 |          1 |         16 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\ReportAFaultAPI.AssemblyInfo.cs                           | C#         |          9 |          9 |          5 |         23 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\ReportAFaultAPI.GeneratedMSBuildEditorConfig.editorconfig | Properties |         10 |          0 |          1 |         11 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\ReportAFaultAPI.MvcApplicationPartsAssemblyInfo.cs        | C#         |          3 |          9 |          5 |         17 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\Release\net5.0\ReportAFaultAPI.deps.json                                 | JSON       |      6,979 |          0 |          0 |      6,979 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\ReportAFaultAPI.csproj.EntityFrameworkCore.targets                       | XML        |         25 |          0 |          1 |         26 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\ReportAFaultAPI.csproj.nuget.dgspec.json                                 | JSON       |        121 |          0 |          0 |        121 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\ReportAFaultAPI.csproj.nuget.g.props                                     | XML        |         30 |          0 |          0 |         30 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\ReportAFaultAPI.csproj.nuget.g.targets                                   | XML        |          6 |          0 |          0 |          6 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\ReportAFaultAPI\obj\project.assets.json                                                      | JSON       |     10,785 |          0 |          0 |     10,785 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\publish\ReportAFaultAPI.deps.json                                                            | JSON       |      6,797 |          0 |          0 |      6,797 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\publish\ReportAFaultAPI.runtimeconfig.json                                                   | JSON       |         13 |          0 |          0 |         13 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\publish\appsettings.Development.json                                                         | JSON       |          9 |          0 |          1 |         10 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPI\publish\appsettings.json                                                                     | JSON       |         14 |          1 |          1 |         16 |
+| Total                                                                                                                                        |            |     83,594 |        349 |        297 |     84,240 |
++----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

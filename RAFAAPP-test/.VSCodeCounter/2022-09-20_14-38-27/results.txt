@@ -1,0 +1,110 @@
+Date : 2022-09-20 14:38:27
+Directory : c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP
+Total : 49 files,  5628 codes, 997 comments, 372 blanks, all 6997 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Dart       |         24 |      5,055 |        886 |        306 |      6,247 |
+| JSON       |          3 |        163 |          0 |          3 |        166 |
+| XML        |          9 |        130 |         51 |         11 |        192 |
+| HTML       |          2 |         94 |         19 |          8 |        121 |
+| Groovy     |          3 |         86 |          3 |         22 |        111 |
+| YAML       |          2 |         66 |         37 |          8 |        111 |
+| Markdown   |          2 |         13 |          0 |          9 |         22 |
+| Swift      |          1 |         12 |          0 |          2 |         14 |
+| Properties |          2 |          8 |          1 |          2 |         11 |
+| C++        |          1 |          1 |          0 |          1 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                          | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                             |         49 |      5,628 |        997 |        372 |      6,997 |
+| android                                                                                                       |         12 |        163 |         53 |         33 |        249 |
+| android\app                                                                                                   |          8 |        122 |         52 |         22 |        196 |
+| android\app\src                                                                                               |          7 |         69 |         49 |          9 |        127 |
+| android\app\src\debug                                                                                         |          1 |          5 |          3 |          1 |          9 |
+| android\app\src\main                                                                                          |          5 |         60 |         43 |          7 |        110 |
+| android\app\src\main\res                                                                                      |          4 |         26 |         32 |          6 |         64 |
+| android\app\src\main\res\drawable                                                                             |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\drawable-v21                                                                         |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\values                                                                               |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\values-night                                                                         |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\profile                                                                                       |          1 |          4 |          3 |          1 |          8 |
+| android\gradle                                                                                                |          1 |          5 |          1 |          1 |          7 |
+| android\gradle\wrapper                                                                                        |          1 |          5 |          1 |          1 |          7 |
+| assets                                                                                                        |          1 |         11 |          0 |          0 |         11 |
+| assets\website                                                                                                |          1 |         11 |          0 |          0 |         11 |
+| ios                                                                                                           |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner                                                                                                    |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner\Assets.xcassets                                                                                    |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                                 |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                                               |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                                         |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                                           |         23 |      5,041 |        876 |        299 |      6,216 |
+| lib\js_libraries                                                                                              |          1 |          7 |          0 |          4 |         11 |
+| lib\models                                                                                                    |          1 |         24 |          0 |          8 |         32 |
+| lib\services                                                                                                  |          3 |        224 |         11 |         34 |        269 |
+| lib\widgets                                                                                                   |          3 |        196 |         68 |         38 |        302 |
+| test                                                                                                          |          1 |         14 |         10 |          7 |         31 |
+| web                                                                                                           |          2 |        101 |         19 |          9 |        129 |
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                      | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\README.md                                                     | Markdown   |         10 |          0 |          7 |         17 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\analysis_options.yaml                                         | YAML       |          3 |         23 |          4 |         30 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\app\build.gradle                                      | Groovy     |         53 |          3 |         13 |         69 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\app\src\debug\AndroidManifest.xml                     | XML        |          5 |          3 |          1 |          9 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\app\src\main\AndroidManifest.xml                      | XML        |         34 |         11 |          1 |         46 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\app\src\main\res\drawable-v21\launch_background.xml   | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\app\src\main\res\drawable\launch_background.xml       | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\app\src\main\res\values-night\styles.xml              | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\app\src\main\res\values\styles.xml                    | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\app\src\profile\AndroidManifest.xml                   | XML        |          4 |          3 |          1 |          8 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\build.gradle                                          | Groovy     |         25 |          0 |          5 |         30 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\gradle.properties                                     | Properties |          3 |          0 |          1 |          4 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\gradle\wrapper\gradle-wrapper.properties              | Properties |          5 |          1 |          1 |          7 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\android\settings.gradle                                       | Groovy     |          8 |          0 |          4 |         12 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\assets\website\banner.html                                    | HTML       |         11 |          0 |          0 |         11 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\ios\Runner\AppDelegate.swift                                  | Swift      |         12 |          0 |          2 |         14 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json   | JSON       |        122 |          0 |          1 |        123 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json | JSON       |         23 |          0 |          1 |         24 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md     | Markdown   |          3 |          0 |          2 |          5 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\ios\Runner\Base.lproj\LaunchScreen.storyboard                 | XML        |         36 |          1 |          1 |         38 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\ios\Runner\Base.lproj\Main.storyboard                         | XML        |         25 |          1 |          1 |         27 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\ios\Runner\Runner-Bridging-Header.h                           | C++        |          1 |          0 |          1 |          2 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\JTCOneMap.dart                                            | Dart       |      1,337 |        107 |         44 |      1,488 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\contants.dart                                             | Dart       |         78 |          8 |         19 |        105 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\error_page.dart                                           | Dart       |        197 |          0 |         11 |        208 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\homepage.dart                                             | Dart       |        505 |        117 |         20 |        642 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\js_libraries\wogaa_js.dart                                | Dart       |          7 |          0 |          4 |         11 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\location.dart                                             | Dart       |         24 |         44 |          8 |         76 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\location_page.dart                                        | Dart       |        322 |         47 |         23 |        392 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\main.dart                                                 | Dart       |        478 |        197 |         18 |        693 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\models\recaptcha_response.dart                            | Dart       |         24 |          0 |          8 |         32 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\otp_page.dart                                             | Dart       |          0 |        223 |         12 |        235 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\qr_scanner_page.dart                                      | Dart       |         89 |          1 |          8 |         98 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\services\locationdata.dart                                | Dart       |        153 |          8 |         16 |        177 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\services\my_http_client.dart                              | Dart       |         44 |          0 |         12 |         56 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\services\recaptcha_service.dart                           | Dart       |         27 |          3 |          6 |         36 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\sgds_appbar.dart                                          | Dart       |         56 |         17 |          4 |         77 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\sgds_footer.dart                                          | Dart       |        596 |          0 |          3 |        599 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\sgds_masthead.dart                                        | Dart       |         44 |         24 |          4 |         72 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\summary.dart                                              | Dart       |        444 |          6 |         15 |        465 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\thankyou_page.dart                                        | Dart       |        142 |          0 |          8 |        150 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\upload_image_page.dart                                    | Dart       |        278 |          6 |         18 |        302 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\widgets\checkbox_list_tile_formfield.dart                 | Dart       |         56 |          0 |          3 |         59 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\widgets\loading_dialog.dart                               | Dart       |        118 |         68 |         30 |        216 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\lib\widgets\summary_fieldgroup.dart                           | Dart       |         22 |          0 |          5 |         27 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\pubspec.yaml                                                  | YAML       |         63 |         14 |          4 |         81 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\test\widget_test.dart                                         | Dart       |         14 |         10 |          7 |         31 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\web\index.html                                                | HTML       |         83 |         19 |          8 |        110 |
+| c:\Users\Lemuel\VsCodeProjects\FEM-RAFA\RAFAAPP\web\manifest.json                                             | JSON       |         18 |          0 |          1 |         19 |
+| Total                                                                                                         |            |      5,628 |        997 |        372 |      6,997 |
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
